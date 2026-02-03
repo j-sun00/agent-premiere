@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+pandas
+openpyxl
+google-generativeai
+python-dotenv
+yt-dlp 

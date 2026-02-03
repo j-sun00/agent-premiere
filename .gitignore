@@ -1,0 +1,10 @@
+# 이 파일에 적힌 것들은 절대 GitHub에 올리지 말 것
+
+# 가상 환경 폴더
+.venv/
+
+# 모든 secrets.toml 파일
+**/secrets.toml
+
+# 파이썬 캐시 파일
+__pycache__/
